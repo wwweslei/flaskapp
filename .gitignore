@@ -106,9 +106,8 @@ venv.bak/
 .mypy_cache/
 
 .gitignore
-.idea/sonarlint/
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/
+
 venv/Include/
 venv/Lib/site-packages/click/__pycache__/
 venv/Lib/site-packages/flask/__pycache__/
